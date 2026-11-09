@@ -15,7 +15,7 @@ name                     : &name "胡淼"
 description              : &description "武汉理工大学软件工程硕士 · 自然语言处理 / 日志异常检测 / 大模型应用"
 url                      : "https://voyahhm.github.io"
 baseurl                  : ""
-repository               : "voyahhm/hm.github.io"
+repository               : "voyahhm/voyahhm.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
