@@ -21,15 +21,13 @@ repository               : "voyahhm/voyahhm.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "胡淼"
+  bio              : "武汉理工大学软件工程硕士，研究方向为日志异常检测。曾在岚图汽车智能座舱云端语音算法开发组实习。"
+  location         : "武汉"
+  employer         : "武汉理工大学"
+  email            : "humiao@whut.edu.cn"
+  github           : "voyahhm"
 
   # Academic websites
   academia         : # URL
